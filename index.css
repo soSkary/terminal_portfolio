@@ -2,6 +2,6 @@
     display: flex;
 }
 #terminalWindow {
-    min-height: 40%;
-    min-width: 80%;
+    /* min-height: 40%; */  height: 400px;
+    /* min-width: 80%; */   width: 800px;
 }
