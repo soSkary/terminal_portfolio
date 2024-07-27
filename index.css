@@ -1,7 +1,11 @@
 .flexContainer {
     display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 1000px;
+    width: 1000px;
 }
 #terminalWindow {
-    /* min-height: 40%; */  height: 400px;
-    /* min-width: 80%; */   width: 800px;
+    min-height: 40%; 
+    min-width: 80%;
 }
