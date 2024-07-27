@@ -1,3 +1,7 @@
 .flexContainer {
     display: flex;
 }
+#terminalWindow {
+    min-height: 40%;
+    min-width: 80%;
+}
