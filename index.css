@@ -1,3 +1,4 @@
+/* In CSS #before a name indicates an id, .before a name indicates a class */
 .flexContainer {
     display: flex;
     flex-direction: column;
@@ -8,4 +9,7 @@
 #terminalWindow {
     min-height: 40%; 
     min-width: 80%;
+}
+.command {
+    cursor: pointer;
 }
